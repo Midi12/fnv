@@ -1,0 +1,12 @@
+name: fnv
+description: FNV hash algorithm for Dart language (see http://isthe.com/chongo/tech/comp/fnv/)
+version: 1.0.0
+homepage: https://github.com/Midi12/fnv
+repository: https://github.com/Midi12/fnv
+
+environment:
+  sdk: '>=2.13.4 <3.0.0'
+
+dev_dependencies:
+  pedantic: ^1.10.0
+  test: ^1.16.0
