@@ -1,6 +1,6 @@
 name: fnv
 description: FNV hash algorithm for Dart language (see http://isthe.com/chongo/tech/comp/fnv/)
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Midi12/fnv
 repository: https://github.com/Midi12/fnv
 
